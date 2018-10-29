@@ -7,4 +7,5 @@ Going to eventually change this to Ian's mini-mod for Minecraft.
 Cheers,
 Blake on the iPad Pro
 
-Now checking Blake's laptop
+Now checking Blake's laptop.  
+Now the Thinkpad...
