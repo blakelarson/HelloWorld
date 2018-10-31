@@ -9,3 +9,5 @@ Blake on the iPad Pro
 
 Now checking Blake's laptop.  
 Now the Thinkpad...
+
+And loading back from Terra's laptop
