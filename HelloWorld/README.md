@@ -11,3 +11,5 @@ Now checking Blake's laptop.
 Now the Thinkpad...
 
 And loading back from Terra's laptop
+
+can edits in Pythonista be saved then pushed?
